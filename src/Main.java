@@ -14,7 +14,7 @@ public class Main {
         // 3 - create components
         JLabel label = new JLabel("Menu:" + "\n" + " 1 = Oscar's Frenzy Auto Shotgun" + "\n" + " 2 =  Montague's Enforcer Assult Rifle" + "\n" + "3 = Valeria's Hyper SMG" + "\n" + "4 = Nisha's Striker Assault Rifle" + "\n" + "5 = Peter Griffin's Hamer Pump Shotgun");
         label.setSize(200,500);
-        JButton button = new JButton("Confirm");
+        JButton button = new JButton("Press");
         JTextField textField = new JTextField(10);
 
         // add image
